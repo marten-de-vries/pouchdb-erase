@@ -1,6 +1,10 @@
 pouchdb-erase
 =============
 
+[![Build Status](https://travis-ci.org/marten-de-vries/pouchdb-erase.svg?branch=master)](https://travis-ci.org/marten-de-vries/pouchdb-erase)
+[![Dependency Status](https://david-dm.org/marten-de-vries/pouchdb-erase.svg)](https://david-dm.org/marten-de-vries/pouchdb-erase)
+[![devDependency Status](https://david-dm.org/marten-de-vries/pouchdb-erase/dev-status.svg)](https://david-dm.org/marten-de-vries/pouchdb-erase#info=devDependencies)
+
 A replicating db.destroy() alternative for PouchDB. Works by iterating
 over all documents in the database and deleting them. Uses batches
 and changes() internally. It's a drop-in replacement for db.destroy().
