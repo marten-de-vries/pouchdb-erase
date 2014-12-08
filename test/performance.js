@@ -1,5 +1,9 @@
 "use strict";
 
+//ATTENTION: the npm package doesn't include the 'dbs/registry.orig'
+//directory since it's very big. If you want to run the tests, download
+//the source from github instead.
+
 var Promise = require('bluebird');
 var fse = Promise.promisifyAll(require('fs-extra'));
 var PouchDB = require('pouchdb');

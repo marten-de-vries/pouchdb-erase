@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-erase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A replicating db.destroy() alternative for PouchDB",
   "main": "index.js",
   "directories": {

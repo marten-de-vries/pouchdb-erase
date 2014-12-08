@@ -1,0 +1,5 @@
+node_modules
+coverage
+test/dbs/registry
+test/dbs/test
+test/dbs/registry.orig
