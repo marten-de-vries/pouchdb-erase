@@ -15,7 +15,7 @@
     "fs-extra": "^0.30.0",
     "istanbul": "^0.4.2",
     "jshint": "^2.5.10",
-    "pouchdb": "^5.2.1",
+    "pouchdb": "^6.0.6",
     "uglify-js": "^2.4.15"
   },
   "scripts": {
