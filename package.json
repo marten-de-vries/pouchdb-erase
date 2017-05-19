@@ -16,7 +16,7 @@
     "istanbul": "^0.4.2",
     "jshint": "^2.5.10",
     "pouchdb": "^5.2.1",
-    "uglify-js": "^2.4.15"
+    "uglify-js": "^3.0.9"
   },
   "scripts": {
     "test": "npm run jshint && npm run coverage",
